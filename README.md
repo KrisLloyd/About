@@ -36,7 +36,7 @@ A collection of projects, achievements, code, and anything else important all in
 
 * [BSides Ottawa](https://twitter.com/bsidesottawa?lang=en "BSides Twitter")
 
-  White Rabbit Challenge winner 2018 [Twitter Link](https://twitter.com/BsidesOttawa/status/1061015569380474880?s=20 "Twitter Link")
+  White Rabbit Challenge winner 2018 [ (Twitter Link)](https://twitter.com/BsidesOttawa/status/1061015569380474880?s=20 "Twitter Link")
 
 # CTF (Capture the Flag)
 *NOTE*: I've recently decided to started to include CTF writeups, but have been attending CTFs for a several years.
