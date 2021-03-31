@@ -31,7 +31,7 @@ A collection of projects, achievements, code, and anything else important all in
 * [Juniper JNCIA (Juniper Networks Certified Associate)](https://www.youracclaim.com/badges/adc3e5f0-d858-4213-b322-469b745f05b2/ "Juniper JNCIA Certification")
 * [CyberSCI Ottawa](http://cybersecuritychallenge.ca/ "CyberSCI Homepage")
 
-  1st place Team 2019  
+  1st place team 2019  
   1st place team 2020
 
 * [BSides Ottawa](https://twitter.com/bsidesottawa?lang=en "BSides Twitter")
