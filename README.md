@@ -4,41 +4,41 @@
 A collection of projects, achievements, code, and anything else important all in one easy to view place!
 
 # Resume
-[Resume](/Docs/Kristopher_Lloyd_Resume.pdf)
+<a href="https://github.com/KrisLloyd/About/blob/main/Docs/Kristopher_Lloyd_Resume.pdf" target="_blank">Resume</a>
 
 # LinkedIn
-[Connect with me on LinkedIn!](https://www.linkedin.com/in/kris-lloyd/ "LinkedIn Kris Lloyd")
+<a href="https://www.linkedin.com/in/kris-lloyd/" target="_blank">Connect with me on LinkedIn!</a>
 
 # Projects
-* [HackerRank](https://www.hackerrank.com/krislloyd "HackerRank Profile")
+* <a href="https://www.hackerrank.com/krislloyd" target="_blank">HackerRank</a>
 
   Verified skills, coding challenges completed with submissions
   
-* [Python Coding](https://github.com/KrisLloyd/Python)
+* <a href="https://github.com/KrisLloyd/Python" target="_blank">Python Coding</a>
 
   Small coding projects organized by folder
  
-* [Cisco Network Configurations](https://github.com/KrisLloyd/Network-Configs)
+* <a href="https://github.com/KrisLloyd/Network-Configs" target="_blank">Cisco Network Configurations</a>
 
   Network configurations and topology diagrams
  
-* [Network Scripts](https://github.com/KrisLloyd/Scripts)
+* <a href="https://github.com/KrisLloyd/Scripts" target="_blank">Network Scripts</a>
 
   Other network scripts, BASH, Ansible, OpenStack, and others
 
 
 # Certifications and Awards
-* [Juniper JNCIA (Juniper Networks Certified Associate)](https://www.youracclaim.com/badges/adc3e5f0-d858-4213-b322-469b745f05b2/ "Juniper JNCIA Certification")
-* [CyberSCI Ottawa](http://cybersecuritychallenge.ca/ "CyberSCI Homepage")
+* <a href="https://www.youracclaim.com/badges/adc3e5f0-d858-4213-b322-469b745f05b2/" target="_blank">Juniper JNCIA (Juniper Networks Certified Associate)</a>
+* <a href="http://cybersecuritychallenge.ca/" target="_blank">CyberSCI Ottawa</a>
 
   1st place team 2019  
   1st place team 2020
 
-* [BSides Ottawa](https://twitter.com/bsidesottawa?lang=en "BSides Twitter")
+* <a href="https://twitter.com/bsidesottawa?lang=en" target="_blank">BSides Ottawa</a>
 
-  White Rabbit Challenge winner 2018 [ (Twitter Link)](https://twitter.com/BsidesOttawa/status/1061015569380474880?s=20 "Twitter Link")
+  White Rabbit Challenge winner 2018 <a href="https://twitter.com/BsidesOttawa/status/1061015569380474880?s=20" target="_blank"> (Twitter Link)</a>
 
 # CTF (Capture the Flag)
-*NOTE*: I've recently decided to started to include CTF writeups, but have been attending CTFs for a several years.
-* [All CTF Writeups](https://github.com/KrisLloyd/Python/tree/master/CTF "All CTF Writeups")
-* [BIT Olympics (Mar 2020)](https://github.com/KrisLloyd/Python/tree/master/CTF#bit-olymipcs-march-2020 "BIT Olympics 2020")
+**NOTE**: I've recently decided to started to include CTF writeups, but have been attending CTFs for a several years.
+* <a href="https://github.com/KrisLloyd/Python/tree/master/CTF" target="_blank">All CTF Writeups</a>
+* <a href="https://github.com/KrisLloyd/Python/tree/master/CTF#bit-olymipcs-march-2020" target="_blank">BIT Olympics (Mar 2020)</a>
