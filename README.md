@@ -42,3 +42,4 @@ A collection of projects, achievements, code, and anything else important all in
 **NOTE**: I've recently decided to started to include CTF writeups, but have been attending CTFs for a several years.
 * <a href="https://github.com/KrisLloyd/Python/tree/master/CTF" target="_blank">All CTF Writeups</a>
 * <a href="https://github.com/KrisLloyd/Python/tree/master/CTF#bit-olymipcs-march-2020" target="_blank">BIT Olympics (Mar 2020)</a>
+* <a href="https://github.com/KrisLloyd/Python/tree/master/CTF#foobar-ctf-march-2020" target="_blank">FooBar CTF (Mar 2020)</a>
