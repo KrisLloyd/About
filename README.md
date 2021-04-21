@@ -30,6 +30,7 @@ A collection of projects, achievements, code, and anything else important all in
 # Certifications and Awards
 * <a href="https://www.credly.com/badges/4776d946-5c37-44c3-8fb6-8521afe1202a" target="_blank">Cisco CCNA (Cisco Certified Network Associate)</a>
 * <a href="https://www.youracclaim.com/badges/adc3e5f0-d858-4213-b322-469b745f05b2/" target="_blank">Juniper JNCIA (Juniper Networks Certified Associate)</a>
+* <a href="https://www.hackerrank.com/certificates/5a4ad557d23f" target="_blank">HackerRank Python Certificaion (Juniper Networks Certified Associate)</a>
 * <a href="http://cybersecuritychallenge.ca/" target="_blank">CyberSCI Ottawa</a>
 
   1st place team 2019  
