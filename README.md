@@ -42,8 +42,8 @@ A collection of projects, achievements, code, and anything else important all in
 
 # CTF (Capture the Flag)
 **NOTE**: I've recently decided to started to include CTF writeups, but have been attending CTFs for a several years.
-* <a href="https://github.com/KrisLloyd/Python/tree/master/CTF" target="_blank">All CTF Writeups</a>
-* <a href="https://github.com/KrisLloyd/Python/tree/master/CTF#bit-olymipcs-march-2021" target="_blank">BIT Olympics (Mar 2021)</a>
-* <a href="https://github.com/KrisLloyd/Python/tree/master/CTF#foobar-ctf-march-2021" target="_blank">FooBar CTF (Mar 2021)</a>
-* <a href="https://github.com/KrisLloyd/Python/tree/master/CTF#ae-ctf---tryhackme-april-2021" target="_blank">AE CTF - TryHackMe (Mar 2021)</a>
-* <a href="https://github.com/KrisLloyd/Python/tree/master/CTF#imaginary-ctf-ongoing-2021" target="_blank">Imaginary CTF (Ongoing 2021)</a>
+* <a href="https://github.com/KrisLloyd/CTF#ctf-solves" target="_blank">All CTF Writeups</a>
+* <a href="https://github.com/KrisLloyd/CTF#bit-olymipcs-march-2021" target="_blank">BIT Olympics (Mar 2021)</a>
+* <a href="https://github.com/KrisLloyd/CTF#foobar-ctf-march-2021" target="_blank">FooBar CTF (Mar 2021)</a>
+* <a href="https://github.com/KrisLloyd/CTF#ae-ctf---tryhackme-april-2021" target="_blank">AE CTF - TryHackMe (Mar 2021)</a>
+* <a href="https://github.com/KrisLloyd/CTF#imaginary-ctf-ongoing-2021" target="_blank">Imaginary CTF (Ongoing 2021)</a>
