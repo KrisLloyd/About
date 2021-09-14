@@ -4,7 +4,7 @@
 A collection of projects, achievements, code, and anything else important all in one easy to view place!
 
 # Resume
-<a href="https://github.com/KrisLloyd/About/blob/main/Docs/Kristopher_Lloyd_Resume.pdf" target="_blank">Resume</a>
+<a href="https://github.com/KrisLloyd/About/blob/main/Docs/Kristopher%20Lloyd%20Resume.pdf" target="_blank">Resume</a>
 
 # LinkedIn
 <a href="https://www.linkedin.com/in/kris-lloyd/" target="_blank">Connect with me on LinkedIn!</a>
