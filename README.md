@@ -1,7 +1,11 @@
 # About
-![Kris Lloyd](https://media-exp1.licdn.com/dms/image/C5603AQFK9zr1ZEF9pA/profile-displayphoto-shrink_800_800/0/1538338149834?e=1622678400&v=beta&t=TEEb5mPjjfH4r9J_uJ84jiHH1KfyXGnsxL2RTeuHmjI)
+<p align="center">
+  <img src="https://github.com/KrisLloyd/About/blob/main/Docs/0.jpg" alt="Kris Lloyd"/>
+</p>
 
+<p align="center">
 A collection of projects, achievements, code, and anything else important all in one easy to view place!
+</p>
 
 # Resume
 <a href="https://github.com/KrisLloyd/About/blob/main/Docs/Kristopher%20Lloyd%20Resume.pdf" target="_blank">Resume</a>
